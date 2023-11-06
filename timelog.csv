@@ -1,1 +1,52 @@
-Date,Description,Time spent 8/27/23,Planning the week’s tasks and setting goals for the front-end development,1 hr 8/28/23,Brainstorming ideas for the website’s user interface and user experience,2 hrs 8/29/23,Leading a code review session with the other developer focusing on code quality and best practices,2 hrs 8/30/23,Working on the website’s navigation menu and responsiveness,3 hrs 8/31/23,Attending a website design workshop to gather new ideas and trends,2 hrs 9/3/23,Researching AWS development for cost-optimized and reliable deployment strategy,2 hrs 9/4/23,Implementing learned AWS techniques into the current project,3 hrs 9/5/23,Crafting a rough outline of the deployment strategy document,1 hr 9/6/23,Filling in the deployment strategy document with details and diagrams,2 hrs 9/7/23,Attending an FMEA workshop to understand potential failures and their impacts,2 hrs 9/10/23,Holding another code review session with the other developer to ensure consistent coding style and standards ,2 hrs 9/11/23,Making finishing touches on the deployment strategy document before submission,1 hr 9/12/23,Beginning implementation phase of front-end features (Setting up GitHub Projects),2 hrs 9/13/23,Learning advanced CSS techniques for website aesthetics enhancement,2 hrs 9/14/23,Holding a meeting with the supervisor to discuss future plans and get feedback,1 hr 9/17/23,Coding front-end features based on feedback and new CSS techniques learned,3 hrs 9/18/23,Collaborating with the other developer to integrate front-end components,3 hrs 9/19/23,Holding a meeting with the supervisor to discuss progress and get feedback,1 hr 9/20/23,Making necessary changes to front-end components based on feedback received,3 hrs 9/21/23,Beginning implementation of the marketing section of the website ,3 hrs 9/24/23,Rigorously working on marketing section features like SEO optimization and user tracking ,3 hrs 9/25/23,Holding a meeting with the supervisor to discuss progress on marketing section and get feedback ,1 hr 9/26/23,Making necessary changes to marketing section based on feedback received ,3 hrs 9/27/23,Holding a meeting with the supervisor to discuss changes made and get feedback ,1 hr 9/28/23,Beginning implementation of the activity section of the website,3 hrs 9/29/23,Holding a code review session with the other developer to check the activity section,2 hrs 10/1/23,Beginning implementation of the accommodation section of the website,3 hrs 10/2/23,Holding a code review session with the other developer to check the accommodation section,2 hrs 10/3/23,Holding a meeting with the supervisor to discuss progress on the activity and accommodation sections and get feedback,1 hr 10/4/23,Making necessary changes to the activity and accommodation sections based on feedback received,3 hrs 10/5/23,Beginning implementation of the final step section of the website,3 hrs 10/8/23,Holding a code review session with the other developer to check the final step section,2 hrs 10/9/23,Beginning implementation of the hero section of the website,3 hrs 10/10/23,Holding a code review session with the other developer to check the hero section,2 hrs 10/11/23,Holding a meeting with the supervisor to discuss progress on the final step and hero sections and get feedback,1 hr 10/12/23,Making necessary changes to the final step and hero sections based on feedback received,3 hrs 10/15/23,Beginning implementation of the footer section of the website,3 hrs 10/16/23,Holding a code review session with the other developer to check the footer section,2 hrs 10/17/23,Holding a meeting with the supervisor to discuss progress on the footer section and get feedback,1 hr 10/18/23,Making necessary changes to the footer section based on feedback received,3 hrs 10/19/23,Preparing the AWS account for deploying the application,3 hrs 10/22/23,Deploying the application to AWS and testing its functionality,3 hrs 10/23/23,Holding a meeting with the supervisor to discuss the deployment process and get feedback,1 hr 10/24/23,Making necessary changes to the application based on feedback received,3 hrs 10/25/23,Developing the deployment strategy document,3 hrs 10/26/23,Reviewing the deployment strategy document and making final edits,2 hrs 10/29/23,Submitting the deployment strategy document and getting approval,1 hr 10/30/23,Holding a meeting with the supervisor to discuss the final outcome and get feedback,1 hr 10/31/23,Making necessary changes to the application based on feedback received,3 hrs 11/1/23,Preparing the final presentation and report,3 hrs 11/2/23,Reviewing the final presentation and report and making final edits,2 hrs 11/3/23,Presenting the final outcome and getting feedback,1 hr 11/4/23,Reflecting on the project and writing a self-evaluation,1 hr
+Date,Description,Time spent
+8/27/23,Planning the week’s tasks and setting goals for the front-end development,1 hr 
+8/28/23,Brainstorming ideas for the website’s user interface and user experience,2 hrs 
+8/29/23,Leading a code review session with the other developer focusing on code quality and best practices,2 hrs 
+8/30/23,Working on the website’s navigation menu and responsiveness,3 hrs 
+8/31/23,Attending a website design workshop to gather new ideas and trends,2 hrs 
+9/3/23,Researching AWS development for cost-optimized and reliable deployment strategy,2 hrs 
+9/4/23,Implementing learned AWS techniques into the current project,3 hrs 
+9/5/23,Crafting a rough outline of the deployment strategy document,1 hr 
+9/6/23,Filling in the deployment strategy document with details and diagrams,2 hrs 
+9/7/23,Attending an FMEA workshop to understand potential failures and their impacts,2 hrs 
+9/10/23,Holding another code review session with the other developer to ensure consistent coding style and standards ,2 hrs 
+9/11/23,Making finishing touches on the deployment strategy document before submission,1 hr 
+9/12/23,Beginning implementation phase of front-end features (Setting up GitHub Projects),2 hrs 
+9/13/23,Learning advanced CSS techniques for website aesthetics enhancement,2 hrs 
+9/14/23,Holding a meeting with the supervisor to discuss future plans and get feedback,1 hr 
+9/17/23,Coding front-end features based on feedback and new CSS techniques learned,3 hrs 
+9/18/23,Collaborating with the other developer to integrate front-end components,3 hrs 
+9/19/23,Holding a meeting with the supervisor to discuss progress and get feedback,1 hr 
+9/20/23,Making necessary changes to front-end components based on feedback received,3 hrs 
+9/21/23,Beginning implementation of the marketing section of the website ,3 hrs 
+9/24/23,Rigorously working on marketing section features like SEO optimization and user tracking ,3 hrs 
+9/25/23,Holding a meeting with the supervisor to discuss progress on marketing section and get feedback ,1 hr 
+9/26/23,Making necessary changes to marketing section based on feedback received ,3 hrs 
+9/27/23,Holding a meeting with the supervisor to discuss changes made and get feedback ,1 hr 
+9/28/23,Beginning implementation of the activity section of the website,3 hrs 
+9/29/23,Holding a code review session with the other developer to check the activity section,2 hrs 
+10/1/23,Beginning implementation of the accommodation section of the website,3 hrs 
+10/2/23,Holding a code review session with the other developer to check the accommodation section,2 hrs 
+10/3/23,Holding a meeting with the supervisor to discuss progress on the activity and accommodation sections and get feedback,1 hr 
+10/4/23,Making necessary changes to the activity and accommodation sections based on feedback received,3 hrs 
+10/5/23,Beginning implementation of the final step section of the website,3 hrs 
+10/8/23,Holding a code review session with the other developer to check the final step section,2 hrs 
+10/9/23,Beginning implementation of the hero section of the website,3 hrs 
+10/10/23,Holding a code review session with the other developer to check the hero section,2 hrs 
+10/11/23,Holding a meeting with the supervisor to discuss progress on the final step and hero sections and get feedback,1 hr 
+10/12/23,Making necessary changes to the final step and hero sections based on feedback received,3 hrs 
+10/15/23,Beginning implementation of the footer section of the website,3 hrs 
+10/16/23,Holding a code review session with the other developer to check the footer section,2 hrs 
+10/17/23,Holding a meeting with the supervisor to discuss progress on the footer section and get feedback,1 hr 
+10/18/23,Making necessary changes to the footer section based on feedback received,3 hrs 
+10/19/23,Preparing the AWS account for deploying the application,3 hrs 
+10/22/23,Deploying the application to AWS and testing its functionality,3 hrs 
+10/23/23,Holding a meeting with the supervisor to discuss the deployment process and get feedback,1 hr 
+10/24/23,Making necessary changes to the application based on feedback received,3 hrs 
+10/25/23,Developing the deployment strategy document,3 hrs 
+10/26/23,Reviewing the deployment strategy document and making final edits,2 hrs 
+10/29/23,Submitting the deployment strategy document and getting approval,1 hr 
+10/30/23,Holding a meeting with the supervisor to discuss the final outcome and get feedback,1 hr 
+10/31/23,Making necessary changes to the application based on feedback received,3 hrs 
+11/1/23,Preparing the presentation for 4900,3 hrs 
+11/2/23,Meeting with supervisor to discuss my performance,2 hrs 
